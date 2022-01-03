@@ -7,29 +7,29 @@ print("And everywhere that Mary went.")
 # add . separator
 print("." * 10) # what'd that do?
 
-# set var C from CheeseBurger
+# set var C from Cheese
 end1 = "C"
-# set var H from CheeseBurger
+# set var H from Cheese
 end2 = "h"
-# set var E from CheeseBurger
+# set var E from Cheese
 end3 = "e"
-# set var E from CheeseBurger
+# set var E from Cheese
 end4 = "e"
-# set var S from CheeseBurger
+# set var S from Cheese
 end5 = "s"
-# set var E from CheeseBurger
+# set var E from Cheese
 end6 = "e"
-# set var B from CheeseBurger
+# set var B from Cheese
 end7 = "B"
-# set var U from CheeseBurger
+# set var U from Burger
 end8 = "u"
-# set var R from CheeseBurger
+# set var R from Burger
 end9 = "r"
-# set var G CheeseBurger
+# set var G Burger
 end10 = "g"
-# set var E CheeseBurger
+# set var E Burger
 end11 = "e"
-# set var R from CheeseBurger
+# set var R from Burger
 end12 = "r"
 
 # watch that comma at the end . try removing it to see what happens
