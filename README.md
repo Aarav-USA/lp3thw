@@ -174,9 +174,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Aarav - [GitHub Profile](https://github.com/Aarav-USA) - 80801287+Aarav-USA@users.noreply.github.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [LP3THW-Progress](https://github.com/Aarav-USA/LP3THW-Progress)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
