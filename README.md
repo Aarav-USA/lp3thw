@@ -1,5 +1,5 @@
 # Learn Python 3 The Hard Way Progress
 
-This repository is the upload of “Learn Python 3 The Hard Way” exercises. The purpose of uploading the exercises online is to spread awareness of coding and to have real time progress of learning python.
+An open-source upload of the upload of “Learn Python 3 The Hard Way” exercises.
 
 Curated with ❤️ by [Aarav-USA](https://github.com/Aarav-USA)
