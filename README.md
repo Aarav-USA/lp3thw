@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/aarav-usa/lpthw3-progress">
+  <a href="https://github.com/Aarav-USA/LP3THW-Progress">
     <img src="images/python_logo.png" alt="Logo"
   </a>
 
@@ -20,14 +20,14 @@
   <p align="center">
     An upload of Learn Python 3 The Hard Way Progress. LPTHW3 is a book of exercises that help learn Python through practice.
     <br />
-    <a href="https://github.com/aarav-usa/lpthw3-progress"><strong>Explore the Repository »</strong></a>
+    <a href="https://github.com/Aarav-USA/LP3THW-Progresss"><strong>Explore the Repository »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/aarav-usa/lpthw3-progress/LICENSE">View License</a>
+    <a href="https://github.com/Aarav-USA/LP3THW-Progresss/LICENSE">View License</a>
     ·
-    <a href="https://github.com/aarav-usa/lpthw3-progress/issues">Report Bug</a>
+    <a href="https://github.com/Aarav-USA/LP3THW-Progress/issues">Report Bug</a>
     ·
-    <a href="https://github.com/aarav-usa/lpthw3/issues">Request Feature</a>
+    <a href="https://github.com/Aarav-USA/LP3THW-Progress/issues">Request Feature</a>
   </p>
 </div>
 
@@ -103,18 +103,17 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/Aarav-USA/LP3THW-Progress.git
    ```
-3. Install NPM packages
+2. Change Directory
    ```sh
-   npm install
+   cd LP3THW-Progress
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+3. Run Python3 Examples
+   ```sh
+   python3 ex(exercise number).py
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
