@@ -18,16 +18,16 @@
 <h3 align="center">Learn Python 3 The Hard Way Progress</h3>
 
   <p align="center">
-    project_description
+    An upload of Learn Python 3 The Hard Way Progress. LPTHW3 is a book of exercises that help learn Python through practice.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/aarav-usa/lpthw3-progress"><strong>Explore the Repository »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/aarav-usa/lpthw3-progress/LICENSE">View License</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/aarav-usa/lpthw3-progress/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/aarav-usa/lpthw3/issues">Request Feature</a>
   </p>
 </div>
 
