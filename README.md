@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/python_powered_logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Learn Python 3 The Hard Way Progress</h3>
