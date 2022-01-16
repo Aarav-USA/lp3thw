@@ -96,9 +96,8 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
   ```sh
-  npm install npm@latest -g
+  python3 ex(exercise number).py
   ```
 
 ### Installation
@@ -111,9 +110,9 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    cd LP3THW-Progress
    ```
-3. Run Python3 Examples
+3. Run Python3 Test File
    ```sh
-   python3 ex(exercise number).py
+   python3 test.py
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
