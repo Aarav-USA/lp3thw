@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/aarav-usa/lpthw3-progress">
     <img src="images/python_logo.png" alt="Logo"
   </a>
 
