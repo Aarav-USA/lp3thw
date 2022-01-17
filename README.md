@@ -199,5 +199,5 @@ Project Link: [LP3THW-Progress](https://github.com/Aarav-USA/LP3THW-Progress)
 [issues-shield]: https://img.shields.io/github/issues/aarav-usa/lpthw3-progress.svg?style=for-the-badge
 [issues-url]: https://github.com/aarav-usa/lpthw3-progress/issues
 [license-shield]: https://img.shields.io/github/license/aarav-usa/lpthw3-progress.svg?style=for-the-badge
-[license-url]: https://github.com/aarav-usa/lpthw3-progress/LICENSE
+[license-url]: https://github.com/Aarav-USA/LP3THW-Progress/blob/main/LICENSE
 [product-screenshot]: images/screenshot.png
