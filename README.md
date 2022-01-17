@@ -174,7 +174,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Aarav - [GitHub Profile](https://github.com/Aarav-USA) - aarav-usa@protonmail.com
+Aarav - [GitHub Profile](https://github.com/Aarav-USA) - aarav-usa@pm.me
 
 Project Link: [LP3THW-Progress](https://github.com/Aarav-USA/LP3THW-Progress)
 
