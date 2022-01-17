@@ -185,9 +185,9 @@ Project Link: [LP3THW-Progress](https://github.com/Aarav-USA/LP3THW-Progress)
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [README.MD Template License](https://github.com/othneildrew/Best-README-Template/LICENSE.txt)
+* [Learn Python 3 The Hard Way Book](https://learncodethehardway.org/python/)
+* [GitHub Dependabot](https://docs.github.com/en/code-security/supply-chain-security/managing-vulnerabilities-in-your-projects-dependencies/about-dependabot-security-updates)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
