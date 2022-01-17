@@ -67,7 +67,7 @@
 
 [![LP3THW][images/LP3THW-Cover.jpg]](https://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0134692888)
 
-This repository is meant to publish the progress of learning python3. Learning code is critical to being successful because it is everywhere. It makes up any electronic that powers the lifestyle that a lot of people live up to.
+This repository is meant to publish the progress of learning Python 3. Learning code is critical to being successful because it is everywhere. It makes up any electronic that powers the lifestyle that a lot of people live up to.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
