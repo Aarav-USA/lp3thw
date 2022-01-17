@@ -75,14 +75,10 @@ This repository is meant to publish the progress of learning python3. Learning c
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Python 3.9.7](https://www.python.org/downloads/release/python-397/)
+* [GitHub](https://github.com)
+* [GitHub Pages](https://pages.github.com)
+* [Git](https://git-scm.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -91,12 +87,11 @@ This repository is meant to publish the progress of learning python3. Learning c
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+This is the instructions of how to set up your project locally. To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Run the Python3 exercises
   ```sh
   python3 ex(exercise number).py
   ```
@@ -123,9 +118,9 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Usage can include but not limited to, reffering the exercises, practicing, and comparing the code.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://Aarav-USA.github.io/LP3THW-Progress)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -139,7 +134,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [] Feature 3
     - [] Nested Feature
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Aarav-USA/LP3THW/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
