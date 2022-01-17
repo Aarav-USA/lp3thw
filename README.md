@@ -68,7 +68,7 @@
 
 This repository is meant to publish the progress of learning Python 3. Learning code is critical to being successful because it is everywhere. It makes up any electronic that powers the lifestyle that a lot of people live up to.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top">Back To Top</a></p>
 
 
 
@@ -79,7 +79,7 @@ This repository is meant to publish the progress of learning Python 3. Learning 
 * [GitHub Pages](https://pages.github.com)
 * [Git](https://git-scm.com/)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top">Back To Top</a></p>
 
 
 
@@ -110,7 +110,7 @@ Run the Python 3 exercises
    python3 test.py
    ```
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top">Back To Top</a></p>
 
 
 
@@ -121,7 +121,7 @@ Usage can include but not limited to, reffering the exercises, practicing, and c
 
 _For more examples, please refer to the [Documentation](https://Aarav-USA.github.io/LP3THW-Progress)_
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top">Back To Top</a></p>
 
 
 
@@ -135,7 +135,7 @@ _For more examples, please refer to the [Documentation](https://Aarav-USA.github
 
 See the [open issues](https://github.com/Aarav-USA/LP3THW/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top">Back To Top</a></p>
 
 
 
@@ -153,7 +153,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top">Back To Top</a></p>
 
 
 
@@ -161,7 +161,7 @@ Don't forget to give the project a star! Thanks again!
 ## License
 
 Distributed under the Affero General Public License-3.0. See `LICENSE` for more information. README.md is published under the MIT license. See `README.md_License` for more information.
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top">Back To Top</a></p>
 
 
 
@@ -172,7 +172,7 @@ Aarav - [GitHub Profile](https://github.com/Aarav-USA) - aarav-usa@pm.me
 
 Project Link: [LP3THW-Progress](https://github.com/Aarav-USA/LP3THW-Progress)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top">Back To Top</a></p>
 
 
 
@@ -183,7 +183,7 @@ Project Link: [LP3THW-Progress](https://github.com/Aarav-USA/LP3THW-Progress)
 * [Learn Python 3 The Hard Way](https://github.com/immu0001/Learn-Python-3-The-Hard-Way)
 * [GitHub Dependabot](https://docs.github.com/en/code-security/supply-chain-security/managing-vulnerabilities-in-your-projects-dependencies/about-dependabot-security-updates)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top">Back To Top</a></p>
 
 
 
