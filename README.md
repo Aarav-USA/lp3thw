@@ -91,7 +91,7 @@ This is the instructions of how to set up your project locally. To get a local c
 
 ### Prerequisites
 
-Run the Python3 exercises
+Run the Python 3 exercises
   ```sh
   python3 ex(exercise number).py
   ```
@@ -106,7 +106,7 @@ Run the Python3 exercises
    ```sh
    cd LP3THW-Progress
    ```
-3. Run Python3 Test File
+3. Run Python 3 Test File
    ```sh
    python3 test.py
    ```
