@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Aarav-USA/LP3THW-Progress">
-    <img src="images/python_logo.png" alt="Logo"
+    <img src="images/python_logo.png" alt="Logo">
   </a>
 
 <h3 align="center">Learn Python 3 The Hard Way Progress</h3>
