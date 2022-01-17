@@ -20,7 +20,7 @@
   <p align="center">
     An upload of Learn Python 3 The Hard Way Progress. LPTHW3 is a book of exercises that help learn Python through practice.
     <br />
-    <a href="https://github.com/Aarav-USA/LP3THW-Progresss"><strong>Explore the Repository »</strong></a>
+    <a href="https://github.com/Aarav-USA/LP3THW-Progress"><strong>Explore the Repository »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Aarav-USA/LP3THW-Progresss/LICENSE">View License</a>
