@@ -18,7 +18,7 @@
 <h3 align="center">Learn Python 3 The Hard Way Progress</h3>
 
   <p align="center">
-    An upload of Learn Python 3 The Hard Way Progress. LPTHW3 is a book of exercises that help learn Python through practice.
+    An upload of Learn Python 3 The Hard Way Progress. LP3THW is a book of exercises that help learn Python through practice.
     <br />
     <br />
     <a href="https://github.com/Aarav-USA/LP3THW-Progress"><strong>Explore the Repository »</strong></a>
@@ -190,14 +190,14 @@ Project Link: [LP3THW-Progress](https://github.com/Aarav-USA/LP3THW-Progress)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/aarav-usa/lpthw3-progress.svg?style=for-the-badge
-[contributors-url]: https://github.com/aarav-usa/lpthw3-progress/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/aarav-usa/lpthw3-progress.svg?style=for-the-badge
-[forks-url]: https://github.com/aarav-usa/lpthw3-progress/network/members
-[stars-shield]: https://img.shields.io/github/stars/aarav-usa/lpthw3-progress.svg?style=for-the-badge
-[stars-url]: https://github.com/aarav-usa/lpthw3-progress/stargazers
-[issues-shield]: https://img.shields.io/github/issues/aarav-usa/lpthw3-progress.svg?style=for-the-badge
-[issues-url]: https://github.com/aarav-usa/lpthw3-progress/issues
-[license-shield]: https://img.shields.io/github/license/aarav-usa/lpthw3-progress.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/Aarav-USA/LP3THW-Progress.svg?style=for-the-badge
+[contributors-url]: https://github.com/Aarav-USA/LP3THW-Progress/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Aarav-USA/LP3THW-Progress.svg?style=for-the-badge
+[forks-url]: https://github.com/Aarav-USA/LP3THW-Progress/network/members
+[stars-shield]: https://img.shields.io/github/stars/Aarav-USA/LP3THW-Progress.svg?style=for-the-badge
+[stars-url]: https://github.com/Aarav-USA/LP3THW-Progress/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Aarav-USA/LP3THW-Progress.svg?style=for-the-badge
+[issues-url]: https://github.com/Aarav-USA/LP3THW-Progress/issues
+[license-shield]: https://img.shields.io/github/license/Aarav-USA/LP3THW-Progress.svg?style=for-the-badge
 [license-url]: https://github.com/Aarav-USA/LP3THW-Progress/blob/main/LICENSE
 [product-screenshot]: images/screenshot.png
