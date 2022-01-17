@@ -166,8 +166,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the Affero General Public License-3.0. See `LICENSE` for more information.
-
+Distributed under the Affero General Public License-3.0. See `LICENSE` for more information. README.md is published under the MIT license. See `README.md_License` for more information.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
