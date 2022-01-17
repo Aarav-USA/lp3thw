@@ -65,7 +65,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="images/LP3THW-Cover.jpg" <a href=https://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0134692888>
+<img src="images/LP3THW-Cover.jpg"> <a href=https://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0134692888>
 
 This repository is meant to publish the progress of learning Python 3. Learning code is critical to being successful because it is everywhere. It makes up any electronic that powers the lifestyle that a lot of people live up to.
 
