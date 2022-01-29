@@ -24,7 +24,7 @@
     <a href="https://github.com/Aarav-USA/LP3THW-Progress"><strong>Explore the Repository »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Aarav-USA/LP3THW-Progresss/LICENSE">View License</a>
+    <a href="https://github.com/Aarav-USA/LP3THW-Progress/blob/main/LICENSE">View License</a>
     ·
     <a href="https://github.com/Aarav-USA/LP3THW-Progress/issues">Report Bug</a>
     ·
