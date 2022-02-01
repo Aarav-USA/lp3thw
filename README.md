@@ -179,7 +179,7 @@ Project Link: [LP3THW-Progress](https://github.com/Aarav-USA/LP3THW-Progress)
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Best README Template License](/README_Copyright_Notice)
+* [Best README Template License](https://github.com/Aarav-USA/LP3THW-Progress/blob/main/README.md_License)
 * [Learn Python 3 The Hard Way](https://github.com/immu0001/Learn-Python-3-The-Hard-Way)
 * [GitHub Dependabot](https://docs.github.com/en/code-security/supply-chain-security/managing-vulnerabilities-in-your-projects-dependencies/about-dependabot-security-updates)
 
