@@ -100,17 +100,14 @@ See `LICENSE` for more information.
 // Refs:
 :url-project: https://github.com/Aarav-USA/LP3THW-Progress
 
-Aarav - aarav-usa@pm.me
-
-Project Link:
-{url-project}[LP3THW-Progress]
-
+- Aarav-USA - aarav-usa@protonmail.com
+- Project link: {url-project}[Project Link]
 
 == Acknowledgments
 // Refs:
 :url-template: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 :url-book: https://github.com/immu0001/Learn-Python-3-The-Hard-Way
-:url-shields: https://shields.io/
+:url-shields: https://shields.io
 
 - {url-template}[Best README Template License]
 - {url-book}[Learn Python 3 The Hard Way]
