@@ -98,10 +98,9 @@ See `LICENSE` for more information.
 
 == Contact
 // Refs:
-:url-profile: https://github.com/Aarav-USA
 :url-project: https://github.com/Aarav-USA/LP3THW-Progress
 
-Aarav - {url-profile}}[GitHub Profile] - aarav-usa@pm.me
+Aarav - aarav-usa@pm.me
 
 Project Link:
 {url-project}[LP3THW-Progress]
@@ -116,3 +115,8 @@ Project Link:
 - {url-template}[Best README Template License]
 - {url-book}[Learn Python 3 The Hard Way]
 - {url-shields}[README Header Shield]
+
+== Authors
+:url-profile: https://github.com/Aarav-USA
+
+Curated with ❤️ by {url-profile}[Aarav-USA]
