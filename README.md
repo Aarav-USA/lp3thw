@@ -4,7 +4,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![AGPL-3.0 License][license-shield]][license-url]
+[![MIT][license-shield]][license-url]
 
 
 
