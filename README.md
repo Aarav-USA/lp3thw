@@ -124,21 +124,6 @@ _For more examples, please refer to the [Documentation](https://Aarav-USA.github
 <p align="right"><a href="#top">Back To Top</a></p>
 
 
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [] Feature 1
-- [] Feature 2
-- [] Feature 3
-    - [] Nested Feature
-
-See the [open issues](https://github.com/Aarav-USA/LP3THW/issues) for a full list of proposed features (and known issues).
-
-<p align="right"><a href="#top">Back To Top</a></p>
-
-
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
