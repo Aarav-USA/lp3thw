@@ -47,11 +47,17 @@ Refer to the {url-docs}[documentation] for troubleshooting.
 
 === Installation
 
-. Clone the repo via HTTPS or add `.git` for SSH
+. Clone the repo via HTTPS
 +
 [source,sh]
 ----
 git clone https://github.com/Aarav-USA/LP3THW-Progress
+----
+* Or clone the repo via SSH
++
+[source,sh]
+----
+git clone git@github.com:Aarav-USA/LP3THW-Progress.git
 ----
 . Change directory
 +
